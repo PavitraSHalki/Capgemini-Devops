@@ -1,1 +1,5 @@
-class A{}
+class A{
+void m1()
+{
+}
+}
